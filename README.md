@@ -10,7 +10,7 @@
 ```text
 avito-internship-qa/
 ├── REPORTS.md          # 📄 Таблица с багами (Задание 1)
-├── bugs_screenshot.png # 🖼 Скриншот с ошибками
+├── Site_bugs.png # 🖼 Скриншот с ошибками
 ├── TESTCASES.md        # 📋 Список тест-кейсов (Задание 2)
 ├── test_api.py         # 🤖 Код автотестов
 ├── .gitignore          # ⚙️ Настройки Git
