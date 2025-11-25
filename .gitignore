@@ -1,0 +1,18 @@
+```text
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Pytest
+.pytest_cache/
+tests/__pycache__/
+
+# IDE
+.vscode/
+.idea/
+```
+
+---
